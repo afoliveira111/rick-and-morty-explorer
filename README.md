@@ -1,4 +1,4 @@
-# Rick and Morty Explorer
+# Rick and Morty Explorer (technical challenge)
 
 Rick and Morty Explorer is an Android application built with Kotlin and Jetpack Compose 
 that allows users to browse characters from the Rick and Morty API, view detailed information, and manage favorite characters locally.
